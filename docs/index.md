@@ -4,7 +4,7 @@ layout: default
 
 Submissions are manually **validated**
 
-[Submit your own report](https://docs.google.com/forms/d/16_ad4HLFNgkDAU4N1IemAbSwVcuIRggBOQyQ-tPfLH4/prefill).
+[Submit your own report](https://forms.gle/8kCMgKyPz8jtkZYH6).
 
 There should be whitespace between paragraphs.
 
