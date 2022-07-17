@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Welcome to the Misinformation Gringer
+Welcome to the Misinformation Grinder
 
 Remember that Submissions are stricly manually **validated**
 
