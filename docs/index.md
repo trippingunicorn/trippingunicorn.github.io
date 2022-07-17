@@ -10,8 +10,6 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Please see the database so far 
-
 ```js
 // This database is opensource and manually checked we add features to it
 ```
