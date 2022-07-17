@@ -31,7 +31,7 @@ domain: misinformationgrinder.tk
 url: https://misinformationgrinder.tk/
 
 # Build settings
-theme: minima
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
