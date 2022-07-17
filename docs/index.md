@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Submit your own report](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYzo_RNgeKYjdMvaDk93w0xR866U_S8zPd1atpwQ3wCxsbWXCE9HzVc9hzNrs63asgekvaX-BNrpYg/pubhtml).
 
 There should be whitespace between paragraphs.
 
