@@ -21,7 +21,6 @@
 title: Misinformation Grinder
 email: security@misinformationgrinder.tk
 description: >- # this means to ignore newlines until "baseurl:"
-	A website to collect misinformations reports relating to the Ukrainian conflict
 baseurl: "/docs" 
 twitter_username: trippingunicornlsd
 github_username:  trippingunicornlsd
