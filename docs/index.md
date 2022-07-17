@@ -27,6 +27,7 @@ var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYzo_RNgeKYjdMvaDk93w0xR866U_S8zPd1atpwQ3wCxsbWXCE9HzVc9hzNrs63asgekvaX-BNrpYg/pubhtml?widget=true&amp;headers=false"></iframe>
 ```
 
 ```ruby
