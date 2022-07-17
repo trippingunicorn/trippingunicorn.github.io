@@ -26,6 +26,7 @@ twitter_username: trippingunicornlsd
 github_username:  trippingunicornlsd
 domain: misinformationgrinder.tk
 url: https://misinformationgrinder.tk/
+show_downloads: true
 
 # Build settings
 theme: jekyll-theme-leap-day
